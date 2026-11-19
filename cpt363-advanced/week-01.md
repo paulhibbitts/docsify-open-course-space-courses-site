@@ -4,10 +4,6 @@
 
 <small>Photo: [Julian Schüngel, Flickr.com](https://www.flickr.com/photos/medevac71/10610701655/)</small>
 
-## What is usability and user experience design?
-[HCI, UI, IA, IxD, and UX](https://www.google.ca/slides/about/)  
-[Design Thinking](https://www.google.ca/slides/about/)  
-[Usability and UCD](https://www.google.ca/slides/about/)  
 
 
 ## **What is usability and user experience design?**

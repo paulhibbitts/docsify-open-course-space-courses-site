@@ -4,10 +4,6 @@
 
 <small>Photo: [Luca Mascaro, Flickr.com](https://www.flickr.com/photos/lucamascaro/4642289926/in/album-72157624141181008/)</small>
 
-## How to plan, conduct, and summarize usability tests?  
-[Testing Methods](https://www.google.ca/slides/about/)
-[Conducting Tests](https://www.google.ca/slides/about/)  
-[Analysis and Reporting](https://www.google.ca/slides/about/)  
 
 
 ## **How to plan, conduct, and summarize usability tests?**

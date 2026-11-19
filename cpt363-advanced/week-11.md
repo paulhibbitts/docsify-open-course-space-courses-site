@@ -4,10 +4,6 @@
 
 <small>Photo: [Pat Armstrong, Flickr.com](https://www.flickr.com/photos/poisontofu/4762082009/)</small>
 
-## What are the essentials of effective visual communication?  
-[Typography](https://www.google.ca/slides/about/)  
-[Grouping, Visual Hierarchy and Grids](https://www.google.ca/slides/about/)  
-[Visual Design Principles](https://www.google.ca/slides/about/)  
 
 
 ## **What are the essentials of effective visual communication?**

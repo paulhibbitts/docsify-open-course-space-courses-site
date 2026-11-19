@@ -4,10 +4,6 @@
 
 <small>Photo: [Rick Dolishny, Flickr.com](https://www.flickr.com/photos/rdolishny/2760207306/)</small>
 
-## How to conduct a usability inspection?   
-[Cognitive Walkthroughs](https://www.google.ca/slides/about/)  
-[Conducting Heuristic Evaluations](https://www.google.ca/slides/about/)  
-[Nielsen’s Heuristics](https://www.google.ca/slides/about/)
 
 
 ## **How to conduct a usability inspection?**

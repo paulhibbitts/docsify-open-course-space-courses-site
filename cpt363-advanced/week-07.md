@@ -4,10 +4,6 @@
 
 <small>Photo: [Blake Patterson, Flickr.com](https://www.flickr.com/photos/blakespot/16230041026/)</small>
 
-## How to design for mobile and multi-device usage?
-['Mobile' Design Principles](https://www.google.ca/slides/about/)  
-[Touch Interaction Design](https://www.google.ca/slides/about/)  
-[Responsive Web Design (RWD)](https://www.google.ca/slides/about/)  
 
 
 ## **How to design for mobile and multi-device usage?**

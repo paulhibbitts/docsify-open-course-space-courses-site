@@ -4,8 +4,6 @@
 
 <small>Photo: [Claudia Guajardo-Yeo, Flickr.com](https://www.flickr.com/photos/athenacgy/35899263465/)</small>
 
-## Course Wrap-up
-Guest Speaker  
 
 
 ## Summaries and Questions  

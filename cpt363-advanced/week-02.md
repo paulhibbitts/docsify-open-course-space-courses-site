@@ -4,10 +4,6 @@
 
 <small>Photo: [CannedTuna, Flickr.com](https://www.flickr.com/photos/cannedtuna/4853380320/)</small>
 
-## What does a holistic user experience design process look like?
-[Software Development Processes](https://www.google.ca/slides/about/)    
-[User Experience Design Processes](https://www.google.ca/slides/about/)    
-[Our Design Process (aka Toolkit)](https://www.google.ca/slides/about/)    
 
 
 ## **What does a holistic user experience design process look like?**

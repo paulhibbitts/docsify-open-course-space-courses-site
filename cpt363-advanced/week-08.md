@@ -4,10 +4,6 @@
 
 <small>Photo: [Nicholas Wang, Flickr.com](https://www.flickr.com/photos/cloneofsnake/13966760787/)</small>
 
-## How to understand and communicate people's needs and behaviours?
-[Needsfinding](https://www.google.ca/slides/about/)  
-[User Models](https://www.google.ca/slides/about/)  
-[Stories of Usage](https://www.google.ca/slides/about/)  
 
 
 ## **How to understand and communicate people's needs and behaviours?**

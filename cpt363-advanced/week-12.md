@@ -4,7 +4,6 @@
 
 <small>Photo: [Lars Kristian Flem, Flickr.com](https://www.flickr.com/photos/larskflem/3343696373/)</small>
 
-Instructor design reviews in TBD, no regular class.
 
 
 Instructor design reviews in TBD, no regular class.

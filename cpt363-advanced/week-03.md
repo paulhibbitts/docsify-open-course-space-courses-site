@@ -4,10 +4,6 @@
 
 <small>Photo: [Emilio Küffer, Flickr.com](https://www.flickr.com/photos/emiliokuffer/6384294717/)</small>
 
-## How to make more strategic design decisions?  
-[User Experience Strategy](https://www.google.ca/slides/about/)  
-[Current State and Future State](https://www.google.ca/slides/about/)  
-[Journey Mapping](https://www.google.ca/slides/about/)  
 
 
 ## **How to make more strategic design decisions?**

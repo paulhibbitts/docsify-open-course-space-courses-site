@@ -4,10 +4,6 @@
 
 <small>Photo: [Matt Cottam, Flickr.com](https://www.flickr.com/photos/mattcottam/6192507935/)</small>
 
-## How to design products for how people think, learn and feel?
-[Conceptual Models](https://www.google.ca/slides/about/)  
-[Design for Emotion](https://www.google.ca/slides/about/)  
-[Accessible and Inclusive Design](https://www.google.ca/slides/about/)  
 
 
 ## **How to design products for how people think, learn and feel?**

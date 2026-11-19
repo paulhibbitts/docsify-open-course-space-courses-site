@@ -4,10 +4,6 @@
 
 <small>Photo: [Samuel Mann, Flickr.com](https://www.flickr.com/photos/21218849@N03/6968244538/)</small>
 
-## How to explore and communicate possible design solutions?
-[Forms and Methods](https://www.google.ca/slides/about/)  
-[Design Scenarios](https://www.google.ca/slides/about/)  
-[Sketching and Storyboarding](https://www.google.ca/slides/about/)  
 
 
 ## **How to explore and communicate possible design solutions?**

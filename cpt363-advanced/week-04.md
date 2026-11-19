@@ -6,7 +6,7 @@
 
 
 
-## **How to explore and communicate possible design solutions?**
+## How to explore and communicate possible design solutions?
 
 ### Summaries and Questions  
 [May 30th Class One-minute Summaries](https://canvas.sfu.ca/courses/55288/assignments)

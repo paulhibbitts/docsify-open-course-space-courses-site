@@ -6,7 +6,7 @@
 
 
 
-## **What are the essentials of effective visual communication?**
+## What are the essentials of effective visual communication?
 
 ### Summaries and Questions  
 [Jul 18th Class One-minute Summaries](https://canvas.sfu.ca/courses/55288/assignments)

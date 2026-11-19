@@ -6,7 +6,7 @@
 
 
 
-## **What is usability and user experience design?**
+## What is usability and user experience design?
 
 > [!TIP]
 > **Learning Objectives**

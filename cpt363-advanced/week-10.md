@@ -6,7 +6,7 @@
 
 
 
-## **How to design products for how people think, learn and feel?**
+## How to design products for how people think, learn and feel?
 
 ### Summaries and Questions  
 [Jul 11th Class One-minute Summaries](https://canvas.sfu.ca/courses/55288/assignments)

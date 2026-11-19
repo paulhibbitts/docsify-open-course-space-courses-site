@@ -6,7 +6,7 @@
 
 
 
-## **How to make more strategic design decisions?**
+## How to make more strategic design decisions?
 
 ### Summaries and Questions  
 [May 23rd Class One-minute Summaries](https://canvas.sfu.ca/courses/55288/assignments)

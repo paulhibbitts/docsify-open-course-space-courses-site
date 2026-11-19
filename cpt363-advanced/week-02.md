@@ -6,7 +6,7 @@
 
 
 
-## **What does a holistic user experience design process look like?**
+## What does a holistic user experience design process look like?
 
 ### Summaries and Questions  
 [May 16th Class One-minute Summaries](https://canvas.sfu.ca/courses/55288/assignments)

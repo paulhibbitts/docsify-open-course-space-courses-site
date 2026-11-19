@@ -1,0 +1,7 @@
+- [CPT363-1](cpt363-basic/home.md ":class=site-title")
+- [Home](cpt363-basic/home.md)
+- [Modules](cpt363-basic/modules.md)
+- [Schedule](cpt363-basic/schedule.md)
+- [Resources](cpt363-basic/resources.md)
+- [Syllabus](cpt363-basic/syllabus.md)
+- [Contact](cpt363-basic/contact.md)

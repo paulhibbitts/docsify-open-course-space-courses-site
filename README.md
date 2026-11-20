@@ -1,6 +1,6 @@
 # Open Course Space Courses – Moved to Docsify-This
 
-> The example courses of the free [Grav Open Course Space](https://github.com/hibbitts-design/grav-skeleton-open-course-space) site, moved to [Docsify-This](https://docsify-this.net/#/) as plain Markdown pages by the [Open Publishing Course Space Bridge](https://open-publishing-course-space-bridge.hibbittsdesign.org).
+> The example courses of the free [Grav Open Course Space](https://github.com/hibbitts-design/grav-skeleton-open-course-space) site, moved to [Docsify-This](https://docsify-this.net/#/) as plain Markdown pages by the [Grav Docsify Bridge](https://grav-docsify-bridge.hibbittsdesign.org).
 
 View it as a website: https://docsify-this.net/?basePath=https://raw.githubusercontent.com/paulhibbitts/docsify-open-course-space-courses-site/main&homepage=home.md&sidebar=true&loadSidebar=_sidebar.md&loadNavbar=_navbar.md&pagination=true&searchbox=true&collapsibleSidebarGroups=true&dark-mode=auto&name=Open%20Course%20Space%20Courses
 
